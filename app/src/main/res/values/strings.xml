@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Is it Friday?</string>
+    <string name="short_answer_no">No</string>
+    <string name="short_answer_yes">Yes!</string>
+    <string name="long_answer_monday">It\'s Monday!</string>
+    <string name="long_answer_tuesday">It\'s Tuesday!</string>
+    <string name="long_answer_wednesday">It\'s Wednesday!</string>
+    <string name="long_answer_thursday">It\'s Thursday!</string>
+    <string name="long_answer_friday">It\'s the day!</string>
+    <string name="long_answer_saturday">It\'s Saturday!</string>
+    <string name="long_answer_sunday">It\'s sunday!</string>
+
+    <string name="gif_description">Funny GIF that describes the day mood.</string>
+</resources>
